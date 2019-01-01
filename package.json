@@ -1,0 +1,25 @@
+{
+  "name": "discreetmusic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "start": "webpack-dev-server --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^10.12.18",
+    "@types/webaudioapi": "0.0.27",
+    "webpack-dev-server": "^3.1.14"
+  },
+  "dependencies": {
+    "tone": "^0.12.80",
+    "ts-loader": "^5.3.2",
+    "typescript": "^3.2.2",
+    "webpack": "^4.28.3",
+    "webpack-cli": "^3.1.2"
+  }
+}
