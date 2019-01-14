@@ -16,6 +16,7 @@
     "webpack-dev-server": "^3.1.14"
   },
   "dependencies": {
+    "nouislider": "^12.1.0",
     "tone": "^0.12.80",
     "ts-loader": "^5.3.2",
     "typescript": "^3.2.2",
